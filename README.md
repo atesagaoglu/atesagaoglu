@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Mert Emre Atesagaoglu.
-- 📖 I’m a Computer Science Student from Turkey.
-- 🖊️ I want to learn and improve my OOP skills.
+- 📖 I’m a Computer Science student from Turkey. 
 
 <!---
 atesagaoglu/atesagaoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
